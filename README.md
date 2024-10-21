@@ -17,13 +17,6 @@ Este é um projeto simples de um **Jogo de Adivinhação** escrito em **C++** ut
 
 - **MinGW** (ou outro compilador C++ para Windows) para compilar o programa.
 
-## Como Compilar e Executar
-
-### Instalação do MinGW
-
-1. Baixe e instale o **MinGW** a partir do site oficial: [MinGW - SourceForge](https://sourceforge.net/projects/mingw/).
-2. Adicione o diretório `C:\MinGW\bin` à variável de ambiente **Path** do Windows.
-
 ### Compilação do Programa
 
 1. Faça o clone deste repositório ou baixe os arquivos.
