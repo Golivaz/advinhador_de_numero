@@ -3,7 +3,6 @@
 #include <ctime>
 #include <string>
 
-
 // Variáveis globais para o número secreto e as tentativas
 int numero_secreto;
 int tentativas = 0;
