@@ -17,6 +17,7 @@ void inicializarJogo()
 }
 
 // Função para verificar o palpite do jogador
+
 std::string verificarPalpite(int palpite)
 {
     tentativas++;
